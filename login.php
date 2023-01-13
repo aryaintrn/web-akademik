@@ -22,7 +22,6 @@
                             <label>Password</label>
                             <input type="password" name="pass" placeholder="Password" class="input-control">
                         </div>
-
                         <input type="submit" name="Submit" value="Login">
                     </form>
                 </div>
