@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Halaman</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     </head>
 
     <body>
@@ -19,9 +20,10 @@
                         </div>
                         <div class="form-group">
                             <label>Password</label>
-                            <input type="password" name="pass" placeholder="Password" class="input-control>
+                            <input type="password" name="pass" placeholder="Password" class="input-control">
                         </div>
-                        <input type="submit" name="submit" value="value">
+
+                        <input type="submit" name="Submit" value="Login">
                     </form>
                 </div>
                 <div classs="box-footer">
